@@ -2,4 +2,5 @@
 Custom dark openSUSE ColorTheme.
 
 ## Installation
-mv OpenSUSEDARK.colors ~/.kde/share/apps/color-schemes
+wget https://raw.githubusercontent.com/Kshyso/openSUSE-ColorTheme/main/OpenSUSEDARK.colors
+mv OpenSUSEDARK.colors ~/.kde4/share/apps/color-schemes
